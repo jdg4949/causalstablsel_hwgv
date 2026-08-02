@@ -7,7 +7,9 @@ authors = [
     { name = "jdg4949", email = "jdg4949@g.ucla.edu" }
 ]
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "jupyter>=1.1.1",
+]
 
 [project.scripts]
 causalstabsel-hwgv = "causalstabsel_hwgv:main"
