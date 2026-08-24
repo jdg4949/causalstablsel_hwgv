@@ -399,8 +399,4 @@ Completed:
 * Sparse autoencoder feature extraction
 * Merging satellite features with GVA incidents by ZCTA and year
 
-Future work:
 
-* Integrating satellite features with heat exposure datasets
-* Conducting causal inference analyses
-* Evaluating spatial heterogeneity in heat-related firearm violence risk
